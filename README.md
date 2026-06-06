@@ -3,7 +3,7 @@
 End-to-end statistical analysis of a checkout redesign A/B test combined with RFM-based customer segmentation.
 
 ## 🔗 Live Demo
-[Open the E-Commerce A/B Test Dashboard](PASTE_YOUR_STREAMLIT_URL_HERE)
+[Open the E-Commerce A/B Test Dashboard](https://ecommerce-ab-test-mohsin.streamlit.app/)
 
 ## 🎯 Business Problem
 An e-commerce company wants to know:
